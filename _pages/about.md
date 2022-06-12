@@ -51,4 +51,4 @@ Honors Awarded
 
 CV
 =====
-I am looking for a job. If you are interested me, please download my [resume](https://changxiaoning.github.io/files/CV.pdf).
+I am looking for a job. If you are interested me, please contact me changxiaoning17 AT otcaix DOT iscas DOT ac DOT cn.
