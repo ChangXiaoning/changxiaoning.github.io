@@ -12,7 +12,7 @@ I am currently a research postgraduate student under the supervision of Prof. [W
 
 Publication
 ======
-- *Characterizing and Detecting Bugs in WeChat Mini-Programs* [[PDF](https://changxiaoning.github.io/files/2022-icse-webug.pdf)][[Slide](https://changxiaoning.github.io/files/2022-icse-webug-slides.pptx)][[Video](https://www.youtube.com/watch?v=uZuIno_jO7Y)][[Website](https://github.com/tcse-iscas/WeBug)]
+:star2: *Characterizing and Detecting Bugs in WeChat Mini-Programs* [[PDF](https://changxiaoning.github.io/files/2022-icse-webug.pdf)][[Slide](https://changxiaoning.github.io/files/2022-icse-webug-slides.pptx)][[Video](https://www.youtube.com/watch?v=uZuIno_jO7Y)][[Website](https://github.com/tcse-iscas/WeBug)]
 
 Tao Wang, Qingxin Xu, **Xiaoning Chang**, Wensheng Dou, Jiaxin Zhu, Jinhui Xie, Yuetang Deng, Jianbo Yang, Jiaheng Yang, Jun Wei, Tao Huang
 
