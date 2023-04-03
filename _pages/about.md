@@ -12,7 +12,7 @@ I am currently a research postgraduate student under the supervision of Prof. [W
 
 Publication
 ======
-- **Characterizing and Detecting Bugs in WeChat Mini-Programs**
+- **A Reinforcement Learning Approach to Generating Test Cases for Web Applications**
   [PDF](https://changxiaoning.github.io/files/2023-ast-webqt.pdf)
 
   **Xiaoning Chang**, Zheheng Liang, Yifei Zhang, Lei Cui, Zhenyue Long,
