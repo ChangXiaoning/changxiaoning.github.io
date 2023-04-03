@@ -12,6 +12,14 @@ I am currently a research postgraduate student under the supervision of Prof. [W
 
 Publication
 ======
+- **Characterizing and Detecting Bugs in WeChat Mini-Programs**
+  [PDF](https://changxiaoning.github.io/files/2023-ast-webqt.pdf)
+
+  **Xiaoning Chang**, Zheheng Liang, Yifei Zhang, Lei Cui, Zhenyue Long,
+  Guoquan Wu, Yu Gao, Wei Chen, Jun Wei, Tao Huang
+
+  Proceedings of 4th ACM/IEEE International Conference on Automation of Software Test **(AST 2023)**
+  
 - **Characterizing and Detecting Bugs in WeChat Mini-Programs** [PDF](https://changxiaoning.github.io/files/2022-icse-webug.pdf), [Slide](https://changxiaoning.github.io/files/2022-icse-webug-slides.pptx), [Video](https://www.youtube.com/watch?v=uZuIno_jO7Y), [Website](https://github.com/tcse-iscas/WeBug)
 
   Tao Wang, Qingxin Xu, **Xiaoning Chang**, Wensheng Dou, Jiaxin Zhu, Jinhui Xie, Yuetang Deng, Jianbo Yang, Jiaheng Yang, Jun Wei, Tao Huang
